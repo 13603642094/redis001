@@ -26,6 +26,15 @@ public class Test2 {
 		
 		//这是一只小小鸟； 
 		System.out.println("test111");
+		
+		//这是一个新的分支 hot_fix;
+		System.out.println("end");
+		
+		System.out.println("end2");
+		
+		//这是一个新的分支 hot_fix;
+		System.out.println("end");
+		
 	}
 
 }
