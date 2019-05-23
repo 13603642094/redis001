@@ -25,6 +25,9 @@ public class Test2 {
 		System.out.println("hello world");
 		
 		//这是一只小小鸟； 
+		
+		//这是一个新的分支 hot_fix;
+		System.out.println("end");
 	}
 
 }
