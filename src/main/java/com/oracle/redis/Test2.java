@@ -9,7 +9,8 @@ public class Test2 {
 
 		Long start=System.currentTimeMillis();
 		System.out.println("¿ªÊ¼");
-		long count=1000000000L;
+		long count=100000L;
+		System.out.println(count);
 		for(int i=0;i<count;i++) {
 			for(int j=0;j<count;j++) {
 				
