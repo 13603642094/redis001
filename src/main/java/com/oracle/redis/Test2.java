@@ -30,6 +30,8 @@ public class Test2 {
 		System.out.println("end");
 		
 		System.out.println("end2");
+		
+		System.out.println("end3");
 	}
 
 }
