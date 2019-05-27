@@ -38,6 +38,8 @@ public class Test2 {
 		//这是一个新的分支 hot_fix;
 		System.out.println("end");
 		
+		
+		
 	}
 
 }
