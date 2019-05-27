@@ -27,6 +27,8 @@ public class Test2 {
 		//这是一只小小鸟； 
 		
 		System.out.println("end3");
+		
+		
 	}
 
 }
